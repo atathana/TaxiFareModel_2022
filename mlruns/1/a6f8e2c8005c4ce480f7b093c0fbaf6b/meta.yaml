@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nasia/code/atathana/TaxiFareModel/mlruns/1/a6f8e2c8005c4ce480f7b093c0fbaf6b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: a6f8e2c8005c4ce480f7b093c0fbaf6b
+run_uuid: a6f8e2c8005c4ce480f7b093c0fbaf6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1643910041498
+status: 1
+tags: []
+user_id: unknown
